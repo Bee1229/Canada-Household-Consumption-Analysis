@@ -98,3 +98,6 @@ Based on the analysis, the following recommendations are provided:
 * Categories with negative year-to-year growth should be reviewed to understand whether the decline is due to economic pressure, changing household behaviour, or category-specific factors.
 * CAGR should be used alongside year-to-year growth because it provides a more stable view of consumption growth over time and provides a long-term overview.
 * Adding other factors like population, income, inflation, or cost-of-living indicators would provide a stronger economic interpretation and allow for per-capita consumption analysis.
+
+## Reference
+Dataset: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610060901
